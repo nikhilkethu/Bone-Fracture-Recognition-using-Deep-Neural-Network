@@ -22,15 +22,16 @@ Objective 1 (Binary classification) & Objective 2 (Multi-Class classification)
 
 Five state-of-the-art models were used to extract features and train the Random Forest for both objectives:
 
-VGG16
+     VGG16
 
-DenseNet169
+    DenseNet169
 
-ResNet50
+    ResNet50
 
-Xception
+    Xception
 
-InceptionV3
+    InceptionV3
+
 
 
 Dataset:
@@ -61,14 +62,23 @@ To achieve the objectives, X-ray images were collected from the MURA dataset, an
       Wrist
 ![X-raywristimages (36)](https://user-images.githubusercontent.com/110224556/220577642-142012bd-faf4-4224-aaa6-2de9099bf87e.png)
 
-Results:
+
+ Results:
+
+
 
    
-   Objective 1: 
+  
+    Objective 1: 
+     
+![image](https://user-images.githubusercontent.com/110224556/220584195-d2954d42-a360-482f-86a5-d1036bdcfe81.png)
+
    
 ![image](https://user-images.githubusercontent.com/110224556/220578032-b94ca1e8-2ef0-4d5b-855a-484e6b750542.png)
 
 
-   Objective 2: 
-   
+    Objective 2: 
+    
+ ![image](https://user-images.githubusercontent.com/110224556/220584443-8d92ed3f-6929-4c5f-8612-c5cc7022e2f8.png)
+
 ![image](https://user-images.githubusercontent.com/110224556/220578332-1f936fb7-e64c-47c6-8b6c-28dbb1b4b6bb.png)
