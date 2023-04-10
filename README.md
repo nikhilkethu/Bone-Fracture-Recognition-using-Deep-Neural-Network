@@ -1,8 +1,7 @@
 # Bone-Fracture-Recognition-using-Deep-Neural-Network
 
 
-
-This project aims to classify X-ray images into two categories: fractured or non-fractured, which is a binary classification problem. Additionally, it also aims to determine which body part the X-ray image belongs to, which is a multi-class classification problem.
+Published a IEEE Paper on this project which  aims to classify X-ray images into two categories: fractured or non-fractured, which is a binary classification problem. Additionally, it also aims to determine which body part the X-ray image belongs to, which is a multi-class classification problem.
 
 To achieve both objectives, Transfer Learning and Random Forest methods were used, 
 
