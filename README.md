@@ -1,7 +1,7 @@
 # Bone-Fracture-Recognition-using-Deep-Neural-Network
 
 
-Published a IEEE Paper (https://ieeexplore.ieee.org/abstract/document/10193015) on this project which  aims to classify X-ray images into two categories: fractured or non-fractured, which is a binary classification problem. Additionally, it also aims to determine which body part the X-ray image belongs to, which is a multi-class classification problem.
+Published a IEEE Paper (https://ieeexplore.ieee.org/abstract/document/10193015) on this project.Fast and accurate diagnosis of a fractured bone from radiographic images is very important in time-demanding and stressful environments such as emergency rooms. In this study we introduced an artificial intelligence (AI) framework consisting of 5 pre-trained deep convolutional neural networks (CNNs) to extract features, 1 classifier and 1 cross-validation method applied to small exemplar sets of medical images of upper extremity body parts including the elbow, finger, hand, humerus, forearm, wrist, and shoulder sampled from the MURA dataset to discriminate between fractured and non-fractured bones from different body parts. Application of our AI pipeline showed that InceptionV3- and Xception-with-random-forest (RF) were able to discriminate between fractured and non-fractured bones (binary classification) with 86% accuracy, whereas DenseNet169-with-random-forest was able to discriminate between fractures of different body parts (multi-class classification) with a 90.3% accuracy. Our integrated framework may be helpful for fast and accurate diagnosis of bone fractures from medical images.
 
 To achieve both objectives, Transfer Learning and Random Forest methods were used, 
 
